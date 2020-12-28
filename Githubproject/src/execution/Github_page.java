@@ -1,5 +1,5 @@
 
-
+//Functional testing//
 package execution;
 
 import org.openqa.selenium.By;
@@ -9,7 +9,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-//Functional Testing for GitHUB login page
+
 public class Github_page {
 	WebDriver driver;
 	@BeforeMethod()
